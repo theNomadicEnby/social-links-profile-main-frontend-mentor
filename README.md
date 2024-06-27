@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
-- Live Site URL: [Add live site URL here](https://thenomadicenby.github.io/social-links-profile-main-frontend-mentor/)
+- Solution URL: [Frontend Mentor | Social links profile hub](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
+- Live Site URL: [Solution by Leo M. | Frontend Mentor | Social links profile](https://thenomadicenby.github.io/social-links-profile-main-frontend-mentor/)
 
 ## My process
 
